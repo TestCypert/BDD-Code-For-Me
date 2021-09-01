@@ -1,0 +1,25 @@
+{
+   "glossary":{
+      "title":"$COUNTRY$",
+      "GlossDiv":{
+         "title":"S",
+         "GlossList":{
+            "GlossEntry":{
+               "ID":"SGML",
+               "SortAs":"SGML",
+               "GlossTerm":"$CAPITAL$",
+               "Acronym":"SGML",
+               "Abbrev":"ISO 8879:1986",
+               "GlossDef":{
+                  "para":"Capital",
+                  "GlossSeeAlso":[
+                     "GML",
+                     "XML"
+                  ]
+               },
+               "GlossSee":"$REGION$"
+            }
+         }
+      }
+   }
+}
